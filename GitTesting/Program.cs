@@ -10,3 +10,7 @@ void InputPlusOne()
 {
     var result = 1 + 1;
 }
+
+void RandomShizzle()
+{
+}
