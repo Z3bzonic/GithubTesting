@@ -15,3 +15,8 @@ void RandomShizzle()
 {
     var randomiet = 9 + 9;
 }
+
+void EvenmoreRandom()
+{
+    var random = new Random();
+}
