@@ -8,5 +8,9 @@ namespace GitTesting
 {
     internal class NogEenDeveloper
     {
+        public void sdfgrzderf()
+        {
+            var optie = 5 + 5;
+        }
     }
 }
